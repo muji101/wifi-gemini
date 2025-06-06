@@ -1,4 +1,4 @@
-# WiFi Gemini v4.1
+# WiFi Gemini
 
 WiFi Gemini adalah sebuah framework pengujian keamanan Wi-Fi berbasis teks (TUI) yang dikembangkan dengan Python. Tool ini mengotomatiskan berbagai jenis serangan dan terintegrasi dengan Google Gemini AI untuk menghasilkan strategi serangan yang cerdas.
 
